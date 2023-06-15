@@ -1,0 +1,30 @@
+C:\Users\Устян Давид\Desktop\АрхПрог2\АрхПрог1\obj\Debug\АрхПрог.csprojAssemblyReference.cache
+C:\Users\Устян Давид\Desktop\АрхПрог2\АрхПрог1\obj\Debug\АрхПрог.csproj.CoreCompileInputs.cache
+C:\Users\Устян Давид\Desktop\АрхПрог2\АрхПрог1\obj\Debug\АрхПрог1.exe
+C:\Users\Устян Давид\Desktop\АрхПрог2\АрхПрог1\obj\Debug\АрхПрог1.pdb
+C:\Users\Устян Давид\Desktop\АрхПрог2\АрхПрог1\bin\Debug\АрхПрог1.exe.config
+C:\Users\Устян Давид\Desktop\АрхПрог2\АрхПрог1\bin\Debug\АрхПрог1.exe
+C:\Users\Устян Давид\Desktop\АрхПрог2\АрхПрог1\bin\Debug\АрхПрог1.pdb
+E:\Учеба\Текущий курс\ПАПС (экз)\АрхПрог2\АрхПрог1\obj\Debug\АрхПрог.csprojAssemblyReference.cache
+E:\Учеба\Текущий курс\ПАПС (экз)\АрхПрог2\АрхПрог1\obj\Debug\АрхПрог.csproj.CoreCompileInputs.cache
+E:\Учеба\Текущий курс\ПАПС (экз)\АрхПрог2\АрхПрог1\obj\Debug\АрхПрог1.exe
+E:\Учеба\Текущий курс\ПАПС (экз)\АрхПрог2\АрхПрог1\obj\Debug\АрхПрог1.pdb
+E:\Учеба\Текущий курс\ПАПС (экз)\АрхПрог2\АрхПрог1\bin\Debug\АрхПрог1.exe.config
+E:\Учеба\Текущий курс\ПАПС (экз)\АрхПрог2\АрхПрог1\bin\Debug\АрхПрог1.exe
+E:\Учеба\Текущий курс\ПАПС (экз)\АрхПрог2\АрхПрог1\bin\Debug\АрхПрог1.pdb
+E:\Новая папка\Долг за прошлый\ПАПС (экз)\АрхПрог2\АрхПрог1\bin\Debug\АрхПрог1.exe.config
+E:\Новая папка\Долг за прошлый\ПАПС (экз)\АрхПрог2\АрхПрог1\bin\Debug\АрхПрог1.exe
+E:\Новая папка\Долг за прошлый\ПАПС (экз)\АрхПрог2\АрхПрог1\bin\Debug\АрхПрог1.pdb
+E:\Новая папка\Долг за прошлый\ПАПС (экз)\АрхПрог2\АрхПрог1\obj\Debug\АрхПрог.csproj.AssemblyReference.cache
+E:\Новая папка\Долг за прошлый\ПАПС (экз)\АрхПрог2\АрхПрог1\obj\Debug\АрхПрог.csproj.SuggestedBindingRedirects.cache
+E:\Новая папка\Долг за прошлый\ПАПС (экз)\АрхПрог2\АрхПрог1\obj\Debug\АрхПрог.csproj.CoreCompileInputs.cache
+E:\Новая папка\Долг за прошлый\ПАПС (экз)\АрхПрог2\АрхПрог1\obj\Debug\АрхПрог1.exe
+E:\Новая папка\Долг за прошлый\ПАПС (экз)\АрхПрог2\АрхПрог1\obj\Debug\АрхПрог1.pdb
+C:\Users\david\OneDrive\Рабочий стол\АрхПрог2\АрхПрог1\bin\Debug\АрхПрог1.exe.config
+C:\Users\david\OneDrive\Рабочий стол\АрхПрог2\АрхПрог1\bin\Debug\АрхПрог1.exe
+C:\Users\david\OneDrive\Рабочий стол\АрхПрог2\АрхПрог1\bin\Debug\АрхПрог1.pdb
+C:\Users\david\OneDrive\Рабочий стол\АрхПрог2\АрхПрог1\obj\Debug\АрхПрог.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive\Рабочий стол\АрхПрог2\АрхПрог1\obj\Debug\АрхПрог.csproj.SuggestedBindingRedirects.cache
+C:\Users\david\OneDrive\Рабочий стол\АрхПрог2\АрхПрог1\obj\Debug\АрхПрог.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Рабочий стол\АрхПрог2\АрхПрог1\obj\Debug\АрхПрог1.exe
+C:\Users\david\OneDrive\Рабочий стол\АрхПрог2\АрхПрог1\obj\Debug\АрхПрог1.pdb
